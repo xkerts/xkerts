@@ -22,7 +22,7 @@ My expertise lies in Vue.js, React, and Node.js, and I'm always excited to dive 
 
 ## Get in Touch
 
-- 📫 Feel free to reach out to me via [email](mailto:xkerts@putlook.com)
+- 📫 Feel free to reach out to me via [email](mailto:xkerts@outlook.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-paz-obando)
 
 Thank you for stopping by my GitHub page! I'm excited to connect with fellow developers and collaborate on exciting projects. Let's build amazing things together! 👩‍💻🚀
